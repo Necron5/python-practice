@@ -28,6 +28,7 @@ while True:
     print("\t2. Add New Student")     # C - creation
     print("\t3. Delete Student")      # D - deletion
     print("\t4. Modify Student Info") # U - updating
+    print("\t5. Exit System")         # E - Exiting
 
     user_input = input("Please choose [1-5]: ")
     # print(f"user_input is {user_input}")
